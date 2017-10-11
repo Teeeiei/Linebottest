@@ -20,7 +20,6 @@ if (!is_null($events['events'])) {
 			$messages = [
 				'type' => 'text',
 				'text' => 'สวัสดีคะ'
-				'type' => 'ควย',
 				'text' => 'มีอะไรไอสัส'
 				
 			];
